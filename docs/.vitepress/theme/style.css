@@ -1,0 +1,182 @@
+/**
+ * Customize default theme styling by overriding CSS variables:
+ * https://github.com/vuejs/vitepress/blob/main/src/client/theme-default/styles/vars.css
+ */
+
+/**
+每个颜色组都有相同的色阶系统：
+
+'XXX-1'：最强烈的颜色，主要用于文字，需确保与 XXX-soft 背景有足够对比度。
+
+'XXX-2'：主要用于按钮的 hover 状态。
+
+'XXX-3'：主要用于按钮的背景色，需确保白色文字在其上有足够可读性。
+
+'XXX-soft'：用于轻微强调的背景色，如信息块、徽章等。必须是半透明的 alpha 通道色，这样可以支持多重叠加（例如在信息块中嵌套代码块时仍然明显）。
+
+色彩语义说明：
+
+default：没有特殊语义，仅用于背景/hover 等微妙提示。
+
+brand：品牌主色，用于链接、主要按钮等。
+
+tip：用于提示信息（默认和 brand 同色）。
+
+warning：用于警告信息（如黄色边框提示块）。
+
+danger：用于错误信息（如红色错误框）。
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --vp-c-default-1: var(--vp-c-gray-1);
+  --vp-c-default-2: var(--vp-c-gray-2);
+  --vp-c-default-3: var(--vp-c-gray-3);
+  --vp-c-default-soft: var(--vp-c-gray-soft);
+
+  --vp-c-brand-1: var(--vp-c-indigo-1);
+  --vp-c-brand-2: var(--vp-c-indigo-2);
+  --vp-c-brand-3: var(--vp-c-indigo-3);
+  --vp-c-brand-soft: var(--vp-c-indigo-soft);
+
+  --vp-c-tip-1: var(--vp-c-brand-1);
+  --vp-c-tip-2: var(--vp-c-brand-2);
+  --vp-c-tip-3: var(--vp-c-brand-3);
+  --vp-c-tip-soft: var(--vp-c-brand-soft);
+
+  --vp-c-warning-1: var(--vp-c-yellow-1);
+  --vp-c-warning-2: var(--vp-c-yellow-2);
+  --vp-c-warning-3: var(--vp-c-yellow-3);
+  --vp-c-warning-soft: var(--vp-c-yellow-soft);
+
+  --vp-c-danger-1: var(--vp-c-red-1);
+  --vp-c-danger-2: var(--vp-c-red-2);
+  --vp-c-danger-3: var(--vp-c-red-3);
+  --vp-c-danger-soft: var(--vp-c-red-soft);
+}
+
+/**
+ * Component: Button
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --vp-button-brand-border: transparent;
+  --vp-button-brand-text: var(--vp-c-white);
+  --vp-button-brand-bg: var(--vp-c-brand-3);
+  --vp-button-brand-hover-border: transparent;
+  --vp-button-brand-hover-text: var(--vp-c-white);
+  --vp-button-brand-hover-bg: var(--vp-c-brand-2);
+  --vp-button-brand-active-border: transparent;
+  --vp-button-brand-active-text: var(--vp-c-white);
+  --vp-button-brand-active-bg: var(--vp-c-brand-1);
+}
+
+/**
+ * Component: Home
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(
+    120deg,
+    #bd34fe 30%,
+    #41d1ff
+  );
+
+  --vp-home-hero-image-background-image: linear-gradient(
+    -45deg,
+    #bd34fe 50%,
+    #47caff 50%
+  );
+  --vp-home-hero-image-filter: blur(44px);
+}
+
+@media (min-width: 640px) {
+  :root {
+    --vp-home-hero-image-filter: blur(56px);
+  }
+}
+
+@media (min-width: 960px) {
+  :root {
+    --vp-home-hero-image-filter: blur(68px);
+  }
+}
+
+/**
+ * Component: Custom Block
+ * -------------------------------------------------------------------------- */
+
+:root {
+  --vp-custom-block-tip-border: transparent;
+  --vp-custom-block-tip-text: var(--vp-c-text-1);
+  --vp-custom-block-tip-bg: var(--vp-c-brand-soft);
+  --vp-custom-block-tip-code-bg: var(--vp-c-brand-soft);
+}
+
+/**
+ * Component: Algolia
+ * -------------------------------------------------------------------------- */
+
+.DocSearch {
+  --docsearch-primary-color: var(--vp-c-brand-1) !important;
+}
+
+/* 调整侧边栏目录字体大小*/
+.VPSidebar .text{
+  font-size: 16px !important; 
+  /* font-weight: bold !important; */
+}
+
+/* 扩大侧边栏右侧“箭头”按钮的点击面积 */
+/* .VPSidebar .caret {
+  height: 40px !important;
+  width: 40px !important;
+  margin: 0 auto;
+} */
+
+/*缩小侧边栏文字到板块底部距离*/
+.VPSidebar .group{
+  padding-bottom:5px !important;
+  padding-top: 5px !important; 
+}
+/*缩小侧边栏文字到板块底部距离*/
+.VPSidebar .collapsible{
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
+}
+.VPSidebarItem{
+  padding-bottom:0px !important;
+  padding-top: 0px !important; 
+}
+/* 整体侧边栏不能选中 */
+.VPSidebar {
+  user-select: none !important;
+}
+/* 注意：如果你直接覆盖 .VPSidebar，vitepress 内置的那段 calc() 公式会被替换为下面的写法。
+   我们只改了两个地方：max() 的第一个参数（32px → 16px），
+   以及 width 里把“减去 32px”改成“减去 16px”。*/
+/* .VPSidebar[data-v-6750ea26] {
+  padding-left: max(25px, calc((100% - (var(--vp-layout-max-width) - 64px)) / 2)) !important;
+  width: calc((100% - (var(--vp-layout-max-width) - 64px)) / 2 + var(--vp-sidebar-width) - 32px) !important;
+} */
+/* .VPSidebar {
+  padding-left: 25px !important;
+  width: calc(
+    (100% - (var(--vp-layout-max-width) - 64px)) / 2
+    + var(--vp-sidebar-width)
+    -80px
+  ) !important;
+} */
+/*固定导航栏*/
+/* .VPNavBar{
+  position: unset !important;
+}   */
+
+
+
+
+
+
+
+
+
