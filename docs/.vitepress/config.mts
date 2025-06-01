@@ -7,7 +7,7 @@ export default  defineConfig({
   base: '/SDUCSGuide/',
   title: "SDUCS 本科指南",
   head: [
-    ['link', { rel: 'icon', href: '/SDUCSGuide_test/favicon.png' }]   // 这里写你的图标文件名
+    ['link', { rel: 'icon', href: '/SDUCSGuide/favicon.png' }]   // 这里写你的图标文件名
     // 你也可以用 '/favicon.ico' 或 '/SDUicon.png'，但路径一定要以 / 开头
   ],
   themeConfig: {
