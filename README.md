@@ -2,7 +2,7 @@
   <img
     alt="SDU"
     src="./docs/public/background.png"
-    height="150"
+    height="180"
   >
 
   <h1 align="center"> SDUCS本科指南 </h1>
