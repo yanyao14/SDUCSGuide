@@ -14,7 +14,7 @@
     >
     <img
       alt="deployment"
-      src="https://img.shields.io/github/deployments/SDUCSGuide/SDUCSGuide/production?style=for-the-badge&logo=VitePress&logoColor=%23FFFFFF&label=deployment&color=%235C73E7"
+      src="https://img.shields.io/github/deployments/SDUCSGuide/SDUCSGuide/github-pages?style=for-the-badge&logo=VitePress&logoColor=%23FFFFFF&label=deployment&color=%235C73E7"
     >
     <img
       alt="size"
