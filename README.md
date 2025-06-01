@@ -1,7 +1,7 @@
 <section align="center">
   <img
     alt="SDU"
-    src="./docs/public/backfround.png"
+    src="./docs/public/background.png"
     height="150"
   >
 
