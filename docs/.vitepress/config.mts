@@ -4,7 +4,7 @@ import { set_sidebar } from './generateSidebar.js'
 // https://vitepress.dev/reference/site-config
 
 export default  defineConfig({
-  base: '/SDUCSGuide_test/',
+  base: '/SDUCSGuide/',
   title: "SDUCS 本科指南",
   head: [
     ['link', { rel: 'icon', href: '/SDUCSGuide_test/favicon.png' }]   // 这里写你的图标文件名
