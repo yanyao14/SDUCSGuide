@@ -12,7 +12,7 @@ hero:
   actions:
     - theme: brand
       text: 从这里开始 !
-      link: /README.md
+      link: /pages/0qianyan.md
     # - theme: alt
     #   text: API Examples
     #   link: /api-examples
