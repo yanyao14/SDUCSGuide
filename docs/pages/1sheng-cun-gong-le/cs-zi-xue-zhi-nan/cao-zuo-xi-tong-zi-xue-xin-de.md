@@ -2,9 +2,9 @@
 
 做一件事情人们往往想找点意义，那么为什么学操作系统？可以看看下面蒋老师在ppt的解答。
 
-<figure><img src="../../../assets/assets/image (9).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../assets/image (9).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../assets/assets/image (10).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../assets/image (10).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 
