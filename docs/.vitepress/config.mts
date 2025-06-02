@@ -19,7 +19,7 @@ export default  defineConfig({
       { text: 'GitHub', link: 'https://github.com/SDUCSGuide/SDUCSGuide.git', target: '_blank' }
     ],
     outline: {
-      level: [2, 4],         // 显示 ##、###、#### 标题
+      level: [1, 4],         // 显示 ##、###、#### 标题
       label: 'Outline'  // 右侧目录标题
     },
     sidebar: {
