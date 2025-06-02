@@ -156,25 +156,11 @@ danger：用于错误信息（如红色错误框）。
 .VPSidebar {
   user-select: none !important;
 }
-/* 注意：如果你直接覆盖 .VPSidebar，vitepress 内置的那段 calc() 公式会被替换为下面的写法。
-   我们只改了两个地方：max() 的第一个参数（32px → 16px），
-   以及 width 里把“减去 32px”改成“减去 16px”。*/
-/* .VPSidebar[data-v-6750ea26] {
-  padding-left: max(25px, calc((100% - (var(--vp-layout-max-width) - 64px)) / 2)) !important;
-  width: calc((100% - (var(--vp-layout-max-width) - 64px)) / 2 + var(--vp-sidebar-width) - 32px) !important;
-} */
-/* .VPSidebar {
-  padding-left: 25px !important;
-  width: calc(
-    (100% - (var(--vp-layout-max-width) - 64px)) / 2
-    + var(--vp-sidebar-width)
-    -80px
-  ) !important;
-} */
-/*固定导航栏*/
-/* .VPNavBar{
-  position: unset !important;
-}   */
+
+html {
+  overflow-y: scroll;
+  scrollbar-gutter: stable;
+}
 
 
 
