@@ -6,28 +6,29 @@ sidebar: false
 非常感谢你查看这份指南并着手分享你的经验！我们相信，每个人的经历都有其独特的价值，无论是学习、成长、转折还是挑战，无论是成功亦或一时的失意，你的故事都可能照亮他人的道路！
 
 分享经验请遵循以下方式，支持实名和匿名：
-- 如果你比较熟悉`github`，可以采用下面两种方式，这两种方式更新可以在项目仓库让所有人看到你的更新，但请注意**不要直接在仓库中提交非Markdown文件（markdown文件用到的资源除外，如图片等）**
-	- 然后直接在`github`网页上进行编辑，上传你的文件，内容发生更改后会自动部署到你现在看到的这个网站上。
-	- Fork 本仓库，clone 到本地，修改，发起 PR（**强烈推荐！**），详细步骤见下方说明。
-- 如果你不熟悉`github`，可以将你想要提供的内容发送到这个邮箱： SDUCSGuide@163.com，我们会为你上传。建议用Markdown（`.md`后缀）的文件，使用其他文件也可，最好不要发送pdf格式的文件。
+- 如果你比较熟悉`github`，可以采用下面两种方式，这两种方式更新可以在项目仓库贡献者列表显示，但请**注意**：不要直接在仓库中提交非Markdown文件（Markdown文件用到的资源除外，如图片等）
+	- 直接在`github`网页上进行编辑，上传你的文件，内容审核后会自动部署到你现在看到的这个网站上。
+	- Fork 本仓库，clone 到本地，修改，发起 PR（**强烈推荐！**）
+	- 这两种方式详细步骤见下方说明。
+- 如果你不熟悉`github`，可以将你想要提供的内容发送到这个邮箱： SDUCSGuide@163.com，我们会为你上传。建议用Markdown（`.md`后缀）文件，使用其他文件也可，最好不要发送pdf格式的文件。
 
-这份指南的所有页面都采用Markdown撰写。它的格式不需要刻意排版就可以变为你现在看到的这样，如果你还不了解它，点击这里学习一下它的用法，非常简单！！！[Markdown基本用法](https://markdown.com.cn/basic-syntax/)
+这份指南的所有页面都采用Markdown撰写。它的格式不需要刻意排版就可以变为你现在看到的这样，如果你还不了解它，点击这里学习一下它的用法。[Markdown基本用法](https://markdown.com.cn/basic-syntax/)
 
-同时本指南通过`VitePress`搭建，部署到`github pages`上，所以同样支持一些扩展的Markdown语法，如果你想使用这些可以参考这份手册：[Markdown扩展语法](https://vitepress.dev/zh/guide/markdown)、[VitePress使用手册](https://vitepress.dev/zh/)
+本指南通过`VitePress`搭建，部署到`github pages`上，所以同样支持一些扩展的Markdown语法，如果你想使用这些语法或了解`VitePress`可以参考这两份手册：[Markdown扩展语法](https://vitepress.dev/zh/guide/markdown)、[VitePress使用手册](https://vitepress.dev/zh/)
 ###  本地编辑，git上传（强烈推荐）
 这里假定你已经能够使用`github`以及`git`工具，如果你不了解想要学习可以去网上查找资料或询问AI。
 1. 点击此处[Fork](https://github.com/SDUCSGuide/SDUCSGuide/fork)我们的仓库
 2. `clone`仓库到你的本地
-3. 创建新分支作存储你修改后的内容：`git checkout -b feat/你的修改描述及name`，例如`git checkout -b feat/update-logistics-section-by-sdu`
-4. 在代码对应的版块添加你要上传的文件(`.md`)或进行你想要的修改
-5. 提交修改并且push到你的参考古
+3. 创建新分支作存储你修改后的内容：`git checkout -b feat/你的修改描述及名字(支持匿名)`，例如`git checkout -b feat/update-logistics-section-by-sdu`
+4. 在代码对应的版块添加你要上传的文件(`.md`)或进行你想要的修改，所有文档均位于`/docs/pages`路径下
+5. 提交修改并且push到你的仓库
 ```
 git add .
 git commit -m "something"
 git push origin feat/你的修改描述以及名字(可以匿名)
 ```
 6. 打开你的`github`仓库的`fork`仓库页面，看到一个绿色按钮`Compare & pull request`，点击它进行PR，记得填写PR说明，简要说明你的修改，最后提交PR
-7. 等待审核完毕后，你的更新就会被发表，这种方式更新，你的贡献能够直接在项目仓库被所有人看到！
+7. 等待审核完毕后，你的更新就会被发表，这种方式更新，你会进入`github`仓库的贡献者列表。
 ### 直接编辑github页面
 1. 访问[仓库](https://github.com/SDUCSGuide/SDUCSGuide)并直接进入你分享内容所在文件夹，所有文档均在`/docs/pages`这一路径下，找到你要访问的对应版块
 2. 点击右上角的`Add file`上传你已经写好的文件
@@ -36,7 +37,9 @@ git push origin feat/你的修改描述以及名字(可以匿名)
 5. 点击`Create pull request`。至此即可成功编辑，等待审核完成即可发布
 ### 更新规则
 
-如果你提交的Markdown文件中含有图片等资源，且你的图片存放在本地，那么记得编辑好Markdown中图片的路径。你可以先用Markdown编辑其如`Typora`将其写好，然后放到对应的文件夹下，再修改下图片路径。
+Markdown文件的第一个一级标题也就是文件的标题会作为目录中的标题进行展示。所以内容最好不要使用多个一级标题。
+
+如果你提交的Markdown文件中含有图片等资源，且你的图片存放在本地，那么记得编辑好Markdown中图片的路径。你可以先用Markdown编辑器如`Typora`将其写好，然后放到对应的文件夹下，再修改图片路径。
 
 路径采用从当前文件夹使用相对地址的格式，图片上传到`/docs/assets`文件夹下。例如你要在`/docs/pages/1sheng-cun-gong-le`这个文件夹下添加内容，那么你引用的图片的地址应该写作`../../assets/citedPage.png`，其中`citedPage.png`是图片的名称。
 
