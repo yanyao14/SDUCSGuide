@@ -5,7 +5,12 @@
     height="180"
   >
 
-  <h1 align="center"> SDUCS本科指南 </h1>
+  <h1 align="center">
+    <a href="https://sducsguide.github.io/SDUCSGuide/" target="_blank">
+      <span style="text-decoration: none; color: black;">SDUCS本科指南</span>
+    </a>
+  </h1>
+
 
   <p>
     <img
