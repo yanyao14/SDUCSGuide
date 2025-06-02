@@ -8,7 +8,7 @@
   <h1 align="center"> SDUCS本科指南 </h1>
 
   <p align="center">
-    👉 [访问 SDUCS 本科指南](https://sducsguide.github.io/SDUCSGuide/)
+    [访问 SDUCS 本科指南](https://sducsguide.github.io/SDUCSGuide/)
   </p>
 
 
