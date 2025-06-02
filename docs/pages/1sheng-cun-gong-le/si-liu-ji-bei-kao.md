@@ -1,8 +1,8 @@
 # 应该如何备考英语四六级考试?
 
-这片文章从林学长的知乎转载
-作者：神箭手Tomlin
-链接：https://www.zhihu.com/question/641228800/answer/3457787441
+这片文章从林学长的知乎转载，如果对你有帮助，可以关注下学长知乎 \
+作者：神箭手Tomlin \
+链接：https://www.zhihu.com/question/641228800/answer/3457787441 \
 来源：知乎
 
 ## 个人情况
@@ -113,6 +113,5 @@
 <img src="https://pica.zhimg.com/50/v2-3ec54298208062befbcc28a4ee492396_720w.jpg?source=2c26e567" data-size="normal" data-rawwidth="1080" data-rawheight="256" data-original-token="v2-45d9f21f44d0054a6a6b2755c83d8f49" data-default-watermark-src="https://picx.zhimg.com/50/v2-b7fde05d7ce8148826e0e32eaecadc34_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="1080" data-original="https://pica.zhimg.com/v2-3ec54298208062befbcc28a4ee492396_r.jpg?source=2c26e567"/>
 2023年6月六级
 
-19级计科 xi chen lin
-
+19级计科 xi chen lin\
 2025.6.2
