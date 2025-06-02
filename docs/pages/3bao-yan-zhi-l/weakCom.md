@@ -17,7 +17,7 @@
 ## 套磁信参考
 
 我保研阶段主要参考如下：
-https://zhuanlan.zhihu.com/p/678400450
+https://zhuanlan.zhihu.com/p/678400450<br>
 https://zhuanlan.zhihu.com/p/615923570
 
 ## 弱com心得
