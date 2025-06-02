@@ -10,10 +10,10 @@
 山东大学计算机专业19级本科生，高中英语基础较扎实，但是由于大学时期对英语学习的疏忽，到大二下的时候，我已经不认识几个英语单词了，这也导致了前两次六级成绩不堪入目。以下附本人历次四六级成绩。
 
 <img src="https://picx.zhimg.com/50/v2-cfc3efbc65ca00be1c1be1e283ccb86a_720w.jpg?source=2c26e567" data-size="normal" data-rawwidth="1568" data-rawheight="235" data-original-token="v2-cfc3efbc65ca00be1c1be1e283ccb86a" data-default-watermark-src="https://pica.zhimg.com/50/v2-cfc3efbc65ca00be1c1be1e283ccb86a_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="1568" data-original="https://pic1.zhimg.com/v2-cfc3efbc65ca00be1c1be1e283ccb86a_r.jpg?source=2c26e567"/>
-四级成绩
+<center>四级成绩</center>
 
 <img src="https://pic1.zhimg.com/50/v2-6a3d622f6159590247a1afa5be99b6df_720w.jpg?source=2c26e567" data-size="normal" data-rawwidth="1570" data-rawheight="350" data-original-token="v2-4bf4db79915adc38cdb731e4c6991825" data-default-watermark-src="https://pica.zhimg.com/50/v2-81b1c688a5816ee007eb2227f4b478ef_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="1570" data-original="https://picx.zhimg.com/v2-6a3d622f6159590247a1afa5be99b6df_r.jpg?source=2c26e567"/>
-六级成绩
+<center>六级成绩</center>
 
 学校对我这届学生安排的英语课只有大一的两学期，所以从2020年下半年即大二开始，我理所当然地抛下了英语这个包袱，这也让我付出了惨痛的代价，日后用了加倍的时间来弥补。先来说一下2021年那两次失败的六级考试经历。我到现在仍然记得那两次六级考试在考场里一脸懵逼的景象，就是说整张卷子几乎没有一道可以确定做对的题目，全程凭感觉来猜。当然，这也并不能完全怪遗忘严重，英语六级要求的词汇量本来就比高考英语大得多，再加上遗忘一部分原本会的单词，就导致整张卷子到处都是生词，根本没法做。我相信有这种感受的绝不只是我一个人！
 
@@ -37,7 +37,7 @@
 
 此处附上我在“不背单词”APP上背单词的记录，还不包括红宝书纸质书上花的时间。
 <img src="https://picx.zhimg.com/50/v2-b8e35438058ff6c8643623b55def1525_720w.jpg?source=2c26e567" data-size="normal" data-rawwidth="798" data-rawheight="583" data-original-token="v2-71b1a477f29955881e5a291232ce820f" data-default-watermark-src="https://picx.zhimg.com/50/v2-118002715bda4e8906c7328764391304_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="798" data-original="https://pica.zhimg.com/v2-b8e35438058ff6c8643623b55def1525_r.jpg?source=2c26e567"/>
-“不背单词”APP背单词记录
+<center>“不背单词”APP背单词记录</center>
 
 ## 听力
 
@@ -87,31 +87,31 @@
 
 写稿之际，南大给我发来了待录取通知，感觉这两年备战考研的辛苦都值了！
 <img src="https://picx.zhimg.com/50/v2-54aeba151495a94da31a53cde242fb05_720w.jpg?source=2c26e567" data-size="normal" data-rawwidth="809" data-rawheight="733" data-original-token="v2-eb1df3302e4ae2c0a20918c1c0676aa5" data-default-watermark-src="https://picx.zhimg.com/50/v2-32fcb962a79bd1c6d808513a538a015a_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="809" data-original="https://pic1.zhimg.com/v2-54aeba151495a94da31a53cde242fb05_r.jpg?source=2c26e567"/>
-南大录取通知附录最后附上我历次四六级的成绩单，看看丑小鸭是如何一步步变成白天鹅的。
+<center>南大录取通知附录最后附上我历次四六级的成绩单，看看丑小鸭是如何一步步变成白天鹅的。</center>
 
 <img src="https://picx.zhimg.com/50/v2-0e9dbe30c52f2b3f67c1fa8fe21c9a9b_720w.jpg?source=2c26e567" data-size="normal" data-rawwidth="676" data-rawheight="384" data-original-token="v2-0f9d96df563a668313e3d3a5448224ed" data-default-watermark-src="https://picx.zhimg.com/50/v2-8ae68de0207f282da0ea3c5ebb54cad4_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="676" data-original="https://pica.zhimg.com/v2-0e9dbe30c52f2b3f67c1fa8fe21c9a9b_r.jpg?source=2c26e567"/>
-2020年9月四级
+<center>2020年9月四级</center>
 
 <img src="https://pica.zhimg.com/50/v2-7cf802f2716a1982b7b82d1420d04c4b_720w.jpg?source=2c26e567" data-size="normal" data-rawwidth="1080" data-rawheight="240" data-original-token="v2-887c9c4004c82ba8bba4b238e431cc3d" data-default-watermark-src="https://picx.zhimg.com/50/v2-9f3793750889751fa0d03d0af6da4e4a_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="1080" data-original="https://picx.zhimg.com/v2-7cf802f2716a1982b7b82d1420d04c4b_r.jpg?source=2c26e567"/>
-2022年6月四级
+<center>2022年6月四级</center>
 
 <img src="https://pic1.zhimg.com/50/v2-9800d879359453701450dab4d56c72ae_720w.jpg?source=2c26e567" data-size="normal" data-rawwidth="1080" data-rawheight="260" data-original-token="v2-7b3eb55fe41bc2a215a73619687de16d" data-default-watermark-src="https://picx.zhimg.com/50/v2-ad51f413ef0a31b549d9b73d1f5ee65f_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="1080" data-original="https://picx.zhimg.com/v2-9800d879359453701450dab4d56c72ae_r.jpg?source=2c26e567"/>
-2023年6月四级
+<center>2023年6月四级</center>
 
 <img src="https://picx.zhimg.com/50/v2-e208b8ebe0cb07fb41c1aed5afc7a63f_720w.jpg?source=2c26e567" data-size="normal" data-rawwidth="1080" data-rawheight="252" data-original-token="v2-c98ce546bd748d2d169a5518f54f4972" data-default-watermark-src="https://pic1.zhimg.com/50/v2-138f0b1e9a13983d719b1e3ef3ce0747_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="1080" data-original="https://picx.zhimg.com/v2-e208b8ebe0cb07fb41c1aed5afc7a63f_r.jpg?source=2c26e567"/>
-2021年6月六级
+<center>2021年6月六级</center>
 
 <img src="https://pica.zhimg.com/50/v2-2b2100564b1ac6f24e6b14dda4c691c2_720w.jpg?source=2c26e567" data-size="normal" data-rawwidth="1080" data-rawheight="256" data-original-token="v2-8eb04902d8bfbaa6fde4e7b6e25dfb19" data-default-watermark-src="https://pica.zhimg.com/50/v2-9b5c7b393a2612fa9c6f71089a41e223_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="1080" data-original="https://picx.zhimg.com/v2-2b2100564b1ac6f24e6b14dda4c691c2_r.jpg?source=2c26e567"/>
-2021年12月六级
+<center>2021年12月六级</center>
 
 <img src="https://picx.zhimg.com/50/v2-60dcbddec60e79c74edd72a406821399_720w.jpg?source=2c26e567" data-size="normal" data-rawwidth="1080" data-rawheight="252" data-original-token="v2-299ca633dead617c46d8ca1e84b46853" data-default-watermark-src="https://picx.zhimg.com/50/v2-0cf77fb9db014ede7d9c8d83645cd21e_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="1080" data-original="https://picx.zhimg.com/v2-60dcbddec60e79c74edd72a406821399_r.jpg?source=2c26e567"/>
-2022年6月六级
+<center>2022年6月六级</center>
 
 <img src="https://picx.zhimg.com/50/v2-c1d8406a8a272909f1badcf6da0bc08e_720w.jpg?source=2c26e567" data-size="normal" data-rawwidth="1080" data-rawheight="244" data-original-token="v2-4d5282e67584b79f00b80956897b02e4" data-default-watermark-src="https://pic1.zhimg.com/50/v2-096dd307a4bb24846ac2062065c7e4b7_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="1080" data-original="https://picx.zhimg.com/v2-c1d8406a8a272909f1badcf6da0bc08e_r.jpg?source=2c26e567"/>
-2022年12月六级
+<center>2022年12月六级</center>
 
 <img src="https://pica.zhimg.com/50/v2-3ec54298208062befbcc28a4ee492396_720w.jpg?source=2c26e567" data-size="normal" data-rawwidth="1080" data-rawheight="256" data-original-token="v2-45d9f21f44d0054a6a6b2755c83d8f49" data-default-watermark-src="https://picx.zhimg.com/50/v2-b7fde05d7ce8148826e0e32eaecadc34_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="1080" data-original="https://pica.zhimg.com/v2-3ec54298208062befbcc28a4ee492396_r.jpg?source=2c26e567"/>
-2023年6月六级
+<center>2023年6月六级</center>
 
 19级计科 xi chen lin\
 2025.6.2
