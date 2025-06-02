@@ -8,13 +8,9 @@
   <h1 align="center"> SDUCS本科指南 </h1>
 
   <p align="center">
-    <a href="https://sducsguide.github.io/SDUCSGuide/" target="_blank"
-      style="display: inline-block; padding: 6px 14px; font-size: 14px; font-weight: 500;
-              background-color: #333333; color: white; border-radius: 4px;
-              text-decoration: none; font-family: sans-serif;">
-      访问 SDUCS 本科指南
-    </a>
+    👉 [访问 SDUCS 本科指南](https://sducsguide.github.io/SDUCSGuide/)
   </p>
+
 
 
 
