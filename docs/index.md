@@ -42,7 +42,7 @@ features:
 
 
 ## 贡献者
-> 下方展示的是通过 GitHub 功能参与投稿的贡献者头像，此外还有许多未使用 GitHub 提交方式的朋友，他们同样为本项目做出了宝贵贡献。每一位贡献者都值得尊重，感谢你们共同构筑这份指南。
+> 下方展示的是通过 GitHub 功能参与投稿的贡献者头像，此外还有许多未使用 GitHub 提交方式的朋友，他们同样为本项目做出了极为宝贵的贡献。每一位贡献者都值得尊重，感谢你们共同构筑这份指南。
 
 <img src="https://contributors-img.web.app/image?repo=SDUCSGuide/SDUCSGuide">
 
