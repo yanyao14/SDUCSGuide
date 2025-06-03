@@ -1,4 +1,4 @@
-# 大学该如何度过？
+# 大学该如何度过——尹建华老师专栏
 
 这个版块的内容是基于[尹建华老师]([Jianhua Yin](https://jhyin12.github.io/))做的调研，调研题为“学业与生活经验”，有327位同学参与其中并给出了宝贵的建议，尹老师将这些内容整理成篇，并且制作了一系列的视频上传到了B站上，下面的内容是对尹老师发布的内容的再整理。大家也可以直接看[尹老师在B站录制的视频](https://www.bilibili.com/video/BV1j7kqYLEmx/?share_source=copy_web&vd_source=f05618a558fd30c5e0096895a624d17f)。
 
