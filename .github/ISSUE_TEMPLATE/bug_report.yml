@@ -1,0 +1,40 @@
+name: 🐞 Bug 报告
+description: 用于反馈使用中遇到的错误或问题
+labels: [bug]
+body:
+  - type: textarea
+    id: describe
+    attributes:
+      label: 🧵 问题描述
+      description: 请简要描述你遇到的问题。
+      placeholder: 例如：“点击目录后页面无法跳转”或“页面样式错乱”
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: 🔍 重现步骤
+      description: 请提供复现该问题的具体步骤。
+      placeholder: |
+        1. 打开首页
+        2. 点击目录左侧导航
+        3. 页面无响应
+    validations:
+      required: false
+
+  - type: input
+    id: browser
+    attributes:
+      label: 💻 浏览器或环境
+      placeholder: 例如 Chrome 122, Edge, 手机端 微信内置浏览器
+    validations:
+      required: false
+
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: ✅ 建议修复方式
+      description: 如果你有解决建议或临时解决方法，也可以提供
+    validations:
+      required: false

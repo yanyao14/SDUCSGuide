@@ -1,0 +1,20 @@
+name: ✨ 功能建议
+description: 提出对新内容、新功能的建议
+labels: [enhancement]
+body:
+  - type: textarea
+    id: propose
+    attributes:
+      label: 💡 建议内容
+      description: 你希望我们添加/优化什么内容？
+      placeholder: 比如：“建议增加保研常见问题汇总”、“导航支持搜索”
+    validations:
+      required: true
+
+  - type: textarea
+    id: reference
+    attributes:
+      label: 📚 参考资料（可选）
+      description: 如果你有链接、截图或示例，可放在这里帮助我们理解
+    validations:
+      required: false

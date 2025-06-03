@@ -16,7 +16,7 @@ export default  defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '启程', link: '/pages/0qian-yan/README' },
-      { text: '分享经历', link: '/join' },
+      { text: '贡献指南', link: '/join' },
       { text: 'GitHub', link: 'https://github.com/SDUCSGuide/SDUCSGuide.git', target: '_blank' }
     ],
     outline: {
