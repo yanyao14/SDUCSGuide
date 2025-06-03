@@ -6,7 +6,7 @@ import fs from 'node:fs'
 // 文件根目录
 const DIR_PATH = path.resolve()
 // 白名单,过滤不是文章的文件和文件夹
-const WHITE_LIST = ['index.md', '.vitepress', 'node_modules', '.idea','public', '.gitbook', 'join.md']
+const WHITE_LIST = ['index.md', '.vitepress', 'node_modules', '.idea','public', '.gitbook', 'join.md', '1a-first-course']
 
 
 // 判断是否是文件夹
