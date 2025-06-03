@@ -27,7 +27,7 @@ sidebar: false
 这里假定你已经能够使用`github`以及`git`工具，如果你不了解想要学习可以去网上查找资料或询问AI。
 1. 点击此处[Fork](https://github.com/SDUCSGuide/SDUCSGuide/fork)我们的仓库
 2. `clone`仓库到你的本地
-3. 创建新分支作存储你修改后的内容：`git checkout -b feat/你的修改描述及名字(支持匿名)`，例如`git checkout -b feat/update-logistics-section-by-sdu`
+3. 创建新分支作存储你修改后的内容：`git checkout -b feat/你的修改描述及名字(支持匿名)`，例如`git checkout -b feat/update-logistics-section-by-sdu`。`feat/XXX`这一段信息是你创建的分支名，当你后面进行`push`操作时要保证二者一致，所以最好设置地简单一些。
 4. 在代码对应的版块添加你要上传的文件(`.md`)或进行你想要的修改，所有文档均位于`/docs/pages`路径下
 5. 提交修改并且push到你的仓库(这里`origin`是不需要手动设置的，克隆之后会自动设置为你自己的`fork`仓库)
 ```
