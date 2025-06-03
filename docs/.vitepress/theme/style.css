@@ -78,7 +78,7 @@ danger：用于错误信息（如红色错误框）。
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: linear-gradient(
     120deg,
-    #9c0c13 25%,     /* SDU 校色：深枣红 */
+    #9c0c13 20%,     /* SDU 校色：深枣红 */
     #5e5bd9 45%,    /* 按钮主色：蓝紫过渡 */
     #a8e2ff 100%    /* 淡蓝银尾：高级感收尾 */
   );
