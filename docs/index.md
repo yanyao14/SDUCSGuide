@@ -1,4 +1,5 @@
 ---
+outline: false
 # https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
@@ -38,4 +39,20 @@ features:
   }
 }
 </style>
+
+
+## 贡献者
+> 下方展示的是通过 GitHub 功能参与投稿的贡献者头像，此外还有许多未使用 GitHub 提交方式的朋友，他们同样为本项目做出了宝贵贡献。每一位贡献者都值得尊重，感谢你们共同构筑这份指南。
+
+<img src="https://contributors-img.web.app/image?repo=SDUCSGuide/SDUCSGuide">
+
+## 友情链接
+
+- 山东大学计算机科学与技术学院 https://www.cs.sdu.edu.cn/
+- CS自学指南 https://csdiy.wiki/
+- 南方科技大学飞跃手册 https://sustech-application.com/
+- 上海交通大学生存手册 https://survivesjtu.gitbook.io/survivesjtumanual
+- 四川大学计软网学生自救手册 https://scu-cs-runner.github.io/SurviveSCUManual/
+- 上海交通大学飞跃手册 https://survivesjtu.github.io/SJTU-Application/#/
+
 
