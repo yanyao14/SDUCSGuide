@@ -50,7 +50,7 @@ function bindSidebarExpandAnimation(items) {
     const content = container?.querySelector('.items')
     if (!(content instanceof HTMLElement) || !container) return
     if(boundItems.has(container)) return
-    boundItems.add(items)
+    boundItems.add(container)
     console.log('✅ 监听到侧边栏加载，绑定逻辑')
     const observer = new MutationObserver(() => {
       const isCollapsed = container.classList.contains('collapsed')

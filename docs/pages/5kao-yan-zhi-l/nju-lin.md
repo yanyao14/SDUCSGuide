@@ -15,10 +15,10 @@
 
 我从2022年2月底就开始准备考研，经历了两年漫长的备考，早已被磨平了棱角，期间经历的喜怒哀乐也差不多忘却，忘记了很多事，也忘记了很多人，唯一坚定的信念是“我要上岸，我要读研，我要更好的自己”！让我感受最深的便是，考研真的很累，需要足够的勇气和毅力。在收到拟录取通知的那一刻，我终于如释重负。这两年付出的辛苦，在上岸南大的那一刻，值了！不过在奖励了自己一顿大餐以后，我又恢复了平静的生活。生命不息战斗不止，考研上岸也只是一个新的起点，而不是终点，我将把考研期间的热情继续投入到研究生学习中。
 <img src="https://picx.zhimg.com/50/v2-0696e55873bd74000754c9fdc471c633_720w.jpg?source=2c26e567" data-size="normal" data-rawwidth="1920" data-rawheight="647" data-original-token="v2-064d9331a8273dfdb1ebc1485c584bf6" data-default-watermark-src="https://pica.zhimg.com/50/v2-0b65a87904d0bdc05130262548cfd063_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="1920" data-original="https://picx.zhimg.com/v2-0696e55873bd74000754c9fdc471c633_r.jpg?source=2c26e567"/>
-<center>初试成绩</center>
+<div style="text-align: center;">初试成绩</div>
 
 <img src="https://picx.zhimg.com/50/v2-0640560b81d442e0e6b415691569e6eb_720w.jpg?source=2c26e567" data-size="normal" data-rawwidth="431" data-rawheight="410" data-original-token="v2-1759c986099e30be927e6e6f6b5e5e93" data-default-watermark-src="https://pica.zhimg.com/50/v2-ad9995ed5dc5350ddbc0901730a379c4_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="431" data-original="https://picx.zhimg.com/v2-0640560b81d442e0e6b415691569e6eb_r.jpg?source=2c26e567"/>
-<center>上岸啦！</center>
+<div style="text-align: center;">上岸啦！</div>
 
 ## 择校问题
 
@@ -29,37 +29,37 @@
 我当初择校的时候也是挺盲目的，不过这一次我赌对了，或者说50%的运气+50%的实力吧。我报南京大学软件工程学硕最大的理由居然是好考？！这个想法是对的，但又是没那么对，尤其是对于一个已经是第二次参加考研的学生，这个决定冒了比较大的风险，大家不要盲目跟风。废话不说了，直接看历年数据，我从别的博主那里拿来的。
 
 <img src="https://pic1.zhimg.com/50/v2-cee54156b39fa9609303b2fbda3d3412_720w.jpg?source=2c26e567" data-size="normal" data-rawwidth="720" data-rawheight="287" data-original-token="v2-87154d762abf47b4bf81eeda08ffeb9d" data-default-watermark-src="https://picx.zhimg.com/50/v2-af4bb5ee356902d4936c3eee12ee280b_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="720" data-original="https://picx.zhimg.com/v2-cee54156b39fa9609303b2fbda3d3412_r.jpg?source=2c26e567"/>
-<center>2020年学硕初试成绩</center>
+<div style="text-align: center;">2020年学硕初试成绩</div>
 
 <img src="https://pica.zhimg.com/50/v2-a765096242c065e64716b7b457f5433e_720w.jpg?source=2c26e567" data-size="normal" data-rawwidth="720" data-rawheight="219" data-original-token="v2-9943382a59bbbe17577b8e7b36d7dfb8" data-default-watermark-src="https://picx.zhimg.com/50/v2-3fa2f8d9feb7a230dd18464d9176d716_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="720" data-original="https://picx.zhimg.com/v2-a765096242c065e64716b7b457f5433e_r.jpg?source=2c26e567"/>
-<center>2020年学硕拟录取</center>
+<div style="text-align: center;">2020年学硕拟录取</div>
 
 <img src="https://pic1.zhimg.com/50/v2-9f224edbfcf4ed578f7d6b63fe4253c1_720w.jpg?source=2c26e567" data-size="normal" data-rawwidth="720" data-rawheight="206" data-original-token="v2-56f08e9f975ff5f77580d949414e92d1" data-default-watermark-src="https://pic1.zhimg.com/50/v2-5a9272e371265d5a53f63e344e8127fd_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="720" data-original="https://pic1.zhimg.com/v2-9f224edbfcf4ed578f7d6b63fe4253c1_r.jpg?source=2c26e567"/>
-<center>2021年学硕5进5</center>
+<div style="text-align: center;">2021年学硕5进5</div>
 
 <img src="https://picx.zhimg.com/50/v2-d003636a569225057c3a169f52599e87_720w.jpg?source=2c26e567" data-size="normal" data-rawwidth="720" data-rawheight="322" data-original-token="v2-6b490bc7b23721281de40f9803f69511" data-default-watermark-src="https://pica.zhimg.com/50/v2-b23b5c3c5ffdf8465a8d2973c8e5ba7c_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="720" data-original="https://picx.zhimg.com/v2-d003636a569225057c3a169f52599e87_r.jpg?source=2c26e567"/>
-<center>2022年学硕初试成绩</center>
+<div style="text-align: center;">2022年学硕初试成绩</div>
 
 <img src="https://picx.zhimg.com/50/v2-f3cae2c3c5288f3f7c06c377568335bc_720w.jpg?source=2c26e567" data-size="normal" data-rawwidth="720" data-rawheight="208" data-original-token="v2-f79fa36985f12299b4c7d8c0eee2fd9a" data-default-watermark-src="https://picx.zhimg.com/50/v2-1ddc8a1f7481e141ac7b60b374e18bc7_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="720" data-original="https://picx.zhimg.com/v2-f3cae2c3c5288f3f7c06c377568335bc_r.jpg?source=2c26e567"/>
-<center>2022年学硕总成绩</center>
+<div style="text-align: center;">2022年学硕总成绩</div>
 
 <img src="https://picx.zhimg.com/50/v2-421877bcbc36fdf93975f8598584c066_720w.jpg?source=2c26e567" data-size="normal" data-rawwidth="720" data-rawheight="333" data-original-token="v2-3dd00bd91b8040b7963420c32ae99699" data-default-watermark-src="https://picx.zhimg.com/50/v2-8d10dd7de4898381b09db42289dfd59d_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="720" data-original="https://pica.zhimg.com/v2-421877bcbc36fdf93975f8598584c066_r.jpg?source=2c26e567"/>
-<center>2023年学硕初试成绩</center>
+<div style="text-align: center;">2023年学硕初试成绩</div>
 
 <img src="https://pic1.zhimg.com/50/v2-498da88d69e78354c243dfcd0a0dfd1d_720w.jpg?source=2c26e567" data-size="normal" data-rawwidth="720" data-rawheight="238" data-original-token="v2-fc49df085f67982aa6d6c9ca8e4e17ec" data-default-watermark-src="https://picx.zhimg.com/50/v2-0cc7b13637b005f2baa8ed613f0b2baa_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="720" data-original="https://picx.zhimg.com/v2-498da88d69e78354c243dfcd0a0dfd1d_r.jpg?source=2c26e567"/>
-<center>2023年学硕总成绩</center>
+<div style="text-align: center;">2023年学硕总成绩</div>
 
 南京大学软件工程学硕每年招生人数很少，加上初试数一英一842（此处842特指南软842）不好找备选的学校，再加上近几年每年改考408的传言，导致想报考这个专业的人多不起来，因此理论上来说非常适合捡漏。既然大家都不敢报，那就让我来吧！从前几年的数据不难看出，只要考上310+，就有很大概率能进复试，甚至逆袭录取！这个分数确实诱人，这可是华五啊！但是，现在互联网这么发达，这种好事怎么可能只有自己一个人发现，大家都看见了，只不过大部分人怕炸了不敢报而已。设想，要是哪年来了几个头铁的大佬，那就没有那些把目标定在310分的人什么事了。因此，对于这个问题，大家自己衡量，不劝退也不引流，理性分析后再做决定。
 
 <img src="https://pic1.zhimg.com/50/v2-b3e486e16b52dd4332972e06ed51f711_720w.jpg?source=2c26e567" data-size="normal" data-rawwidth="718" data-rawheight="351" data-original-token="v2-52b2ce54a02ab43a9f94d453fd720ef9" data-default-watermark-src="https://pic1.zhimg.com/50/v2-f4b2230a235339ac17b3a53023af514a_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="718" data-original="https://picx.zhimg.com/v2-b3e486e16b52dd4332972e06ed51f711_r.jpg?source=2c26e567"/>
-<center>2024年学硕初试成绩</center>
+<div style="text-align: center;">2024年学硕初试成绩</div>
 
 <img src="https://pica.zhimg.com/50/v2-0247cb4352fe206b5db9d6a250623f1f_720w.jpg?source=2c26e567" data-size="normal" data-rawwidth="841" data-rawheight="624" data-original-token="v2-030bb15ff5cbb803fbf8ddc47a3dc52a" data-default-watermark-src="https://picx.zhimg.com/50/v2-88a6f56cb091dadc6c731caf42deafda_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="841" data-original="https://pic1.zhimg.com/v2-0247cb4352fe206b5db9d6a250623f1f_r.jpg?source=2c26e567"/>
-<center>2024年学硕总成绩</center>
+<div style="text-align: center;">2024年学硕总成绩</div>
 
 再看看今年的数据，复试线提高到了338分，录取前八名，第八名346分，已经没有之前的南软学硕这么大的性价比了，并且个人感觉25考研的学硕复试线还有继续上升的可能性。要是想考南软，但是又怕名额少炸了，建议考虑一下专硕22842.数学一24考研数学一我只考了103分，在复试名单中算是分数较低的，部分原因是考完第一天有点飘，认为胜券在握，导致第二天的数学考试里有点浮躁，计算错误明显比平时多很多。这里小小吹个牛，毕竟也曾经打进过全国大学生数学竞赛决赛（一战备考的时候顺便考了个数学竞赛，没想到“无心插柳柳成荫”，居然打进决赛了，23年决赛在广东工业大学比的）。
 
-<img src="https://pica.zhimg.com/50/v2-f6ce540aedc69f96d2554f20a657267b_720w.jpg?source=2c26e567" data-size="normal" data-rawwidth="1048" data-rawheight="753" data-original-token="v2-5c61c78b2cb75a6aaca1f31f9f33949b" data-default-watermark-src="https://pic1.zhimg.com/50/v2-4214b3743ac764975a4404f2e253f140_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="1048" data-original="https://picx.zhimg.com/v2-f6ce540aedc69f96d2554f20a657267b_r.jpg?source=2c26e567"/><center>全国大学生数学竞赛决赛二等奖</center>
+<img src="https://pica.zhimg.com/50/v2-f6ce540aedc69f96d2554f20a657267b_720w.jpg?source=2c26e567" data-size="normal" data-rawwidth="1048" data-rawheight="753" data-original-token="v2-5c61c78b2cb75a6aaca1f31f9f33949b" data-default-watermark-src="https://pic1.zhimg.com/50/v2-4214b3743ac764975a4404f2e253f140_720w.jpg?source=2c26e567" class="origin_image zh-lightbox-thumb" width="1048" data-original="https://picx.zhimg.com/v2-f6ce540aedc69f96d2554f20a657267b_r.jpg?source=2c26e567"/><div style="text-align: center;">全国大学生数学竞赛决赛二等奖</div>
 
 基于本人几乎从零基础学习数学一的经历，给出个人比较推荐的老师和练习题。首先说明一下，这部分可以选择跳过不看，因为选择哪个老师，做哪本练习，并没有绝对的对错，跟哪个老师的都有高分和低分，最关键的是找出适合自己的学习路线。就拿我自己举例子，我自认为比较笨，什么东西都要反反复复学习好几遍才能领悟，可能别的同学听一遍课甚至不听课直接看书就看明白了。我认为原则就是，宁可放慢速度搞懂了为止，也不要为了追求速度而囫囵吞枣。
 
