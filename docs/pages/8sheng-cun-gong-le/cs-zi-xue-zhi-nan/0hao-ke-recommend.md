@@ -18,25 +18,21 @@
 
 1. （ML，DL，RL）B站李宏毅
 
-2. （ML）白板手推（数学内容多，很深刻）\ https://www.bilibili.com/video/BV1aE411o7qd/
+2. （ML）白板手推（数学内容多，很深刻）
+   https://www.bilibili.com/video/BV1aE411o7qd/
 
-* （ML）浙江大学-机器学习（强推SVM部分）
-
-https://www.bilibili.com/video/BV1qf4y1x7kB/
-
-* （DL，LLM）李沐大神分享，如何读论文
-
-https://www.bilibili.com/video/BV1H44y1t75x
-
-* （RL）西湖大学WindyLab
-
-https://www.bilibili.com/video/BV1sd4y167NS/
+3. （ML）浙江大学-机器学习（强推SVM部分）
+   https://www.bilibili.com/video/BV1qf4y1x7kB/
+4. （DL，LLM）李沐大神分享，如何读论文
+   https://www.bilibili.com/video/BV1H44y1t75x
+  
+5. （RL）西湖大学WindyLab
+   https://www.bilibili.com/video/BV1sd4y167NS/
 
 #### 实践操作
 
 1. pytorch教程（B站刘二大人）
 
 2. 《动手学深度学习》边看边实践，还有视频讲解
-
-电子书：https://zh-v2.d2l.ai/
+   电子书：https://zh-v2.d2l.ai/
 
