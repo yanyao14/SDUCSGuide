@@ -9,19 +9,19 @@ https://missing-semester-cn.github.io/
 
 ### 1、c语言
 浙大翁凯，b站视频：
-https://www.bilibili.com/video/BV1dr4y1n7vA/?vd_source=a669c0c79b4f5d477bdb6b89ba0f8c9b
+https://www.bilibili.com/video/BV1dr4y1n7vA/
 
 ### 2、操作系统
 MIT公开课操作系统，6s081，b站视频
-https://www.bilibili.com/video/BV1rS4y1n7y1/?vd_source=a669c0c79b4f5d477bdb6b89ba0f8c9b
+https://www.bilibili.com/video/BV1rS4y1n7y1/
 
 ### 3、编译原理
 斯坦福公开课，cs143，b站视频
-https://www.bilibili.com/video/BV1b41hYREg7/?vd_source=a669c0c79b4f5d477bdb6b89ba0f8c9b
+https://www.bilibili.com/video/BV1b41hYREg7/
 
 ### 4、计算机图形学
 games101，闫令琪的课，很不错
-https://www.bilibili.com/video/BV1X7411F744/?vd_source=a669c0c79b4f5d477bdb6b89ba0f8c9b
+https://www.bilibili.com/video/BV1X7411F744/
 
 ## 数学
 
