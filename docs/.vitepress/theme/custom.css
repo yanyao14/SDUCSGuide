@@ -6,21 +6,29 @@
     padding-top: 0;
     padding-bottom: 0;
     transition:
-      max-height 0.4s ease-in-out,
-      opacity 0.35s ease-in 0.05s,
-      padding 0.5s ease-in-out;
+    max-height 0.5s ease,
+    opacity 0.4s ease,
+    padding 0.4s ease;
     will-change: max-height, opacity, padding;
     display: block !important;
   }
   
   /* 展开时 */
   .VPSidebarItem:not(.collapsed) > .items {
-    max-height: 10000000px; /* 根据内容高度设置合理值 */
-    background-color: var(--vp-c-bg-alt); /* 可选背景渐变 */
+    /* background-color: var(--vp-c-bg-alt); */
     opacity: 1;
   }
 
-  .caret-icon{
-    transition-duration: 0.4s ease !important;
+  /* .caret-icon {
+    transition: transform 0.3s ease;
+    transform: rotate(0deg);
   }
+  
+  .VPSidebarItem > .item > .caret-icon {
+    transform: rotate(0deg);
+  }
+  
+  .VPSidebarItem:not(.collapsed) > .item > .caret-icon {
+    transform: rotate(90deg);
+  } */
   

@@ -26,6 +26,15 @@ export default  defineConfig({
     sidebar: {
       '/pages': set_sidebar('/pages'),
     }
+  },
+  vite: {
+    css: {
+      preprocessorOptions: {
+        css: {
+          additionalData: `@import "./styles/override.css";`
+        }
+      }
+    }
   }
   
 })
