@@ -1,6 +1,6 @@
 # 这些事要是大一大二知道就好了
 
-1. 学会用clash for windows翻墙
+1. 学会用clash for windows
 2. 项目向学C++推荐The cherno（B站有视频）
 3. 零基础不推荐打ACM，科研or工作向想提高代码能力刷刷leetcode + 多写C++项目就行了（大三的程设课好好上）。当然有“网瘾”的ACM选手除外，祝你ICPC金。
 4. 计算机科学与技术专业 但以后想从事AI相关科研方向or工作，尽早自学python、机器学习基础（B站李宏毅）、pytorch教程（B站刘二大人）
