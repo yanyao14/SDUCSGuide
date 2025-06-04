@@ -15,7 +15,7 @@
   
   /* 展开时 */
   .VPSidebarItem:not(.collapsed) > .items {
-    max-height: 500px; /* 根据内容高度设置合理值 */
+    max-height: 10000000px; /* 根据内容高度设置合理值 */
     background-color: var(--vp-c-bg-alt); /* 可选背景渐变 */
     opacity: 1;
   }
