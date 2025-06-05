@@ -122,5 +122,5 @@
 
 ---
 
-SDUCS: Sen Zhang: space_invader:\
+SDUCS: SZ: space_invader:\
 GMU ECE Ph.D
