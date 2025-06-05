@@ -84,13 +84,13 @@ system 类对于本科科研而言，并不推荐，因为太难了，不管是�
 
 最终，我想说的是其实科研真的很苦，尤其是当你没有及时的得到正反馈的时候是很挫败的，花了这么久的时间结果得到的收益并不大，很容易让本科生失去信心。但是，一旦选择这条路，我认为还是完整走下去，最终的结果一定是好的。我记得自己当时非常希望能够发出来一篇论文，时至今日，我还清楚记得论文发表的前一天晚上，断续地睡觉，一直到早上收到了接受邮件，我反复读了几次，确定这是真的后，才又继续睡觉了。可以肯定的是，在接到邮件的一瞬间，感觉人生到达了「巅峰」。第二天，这封接收邮件，我想应该是反复读了十几次。这种感觉只有经历过科研的人才能懂。认真看师兄师姐发给你的论文，多和他们沟通，不要怕困难，即使最开始在他们心中你可能也是一个打杂的，但我相信，一个一开始就认真踏实的学生最终是可以成为一个优秀的科研者的。希望山大计算机学院以后的学弟学妹们可以认识到科研在某种意义上可能是适合你的，相较于传统的应试教育的范式，也许你会在这里找到绩点以外的收获。
 
-<figure><img src="../../assets/image ( 1 ) .png" alt=""><figcaption><p>IEEE TPDS 大修邮件</p></figcaption></figure>
+<figure><img src="../../assets/image (1).png" alt=""><figcaption><p>IEEE TPDS 大修邮件</p></figcaption></figure>
 
-<figure><img src="../../assets/image ( 3 ) .png" alt=""><figcaption><p>ECAI Submission</p></figcaption></figure>
+<figure><img src="../../assets/image (3).png" alt=""><figcaption><p>ECAI Submission</p></figcaption></figure>
 
-<figure><img src="../../assets/image ( 5 ) .png" alt=""><figcaption><p>IEEE INFCOM Reject 邮件</p></figcaption></figure>
+<figure><img src="../../assets/image (5).png" alt=""><figcaption><p>IEEE INFCOM Reject 邮件</p></figcaption></figure>
 
-<figure><img src="../../assets/image ( 6 ) .png" alt=""><figcaption><p>投稿前一夜必须狠狠的熬夜肝</p></figcaption></figure>
+<figure><img src="../../assets/image (6).png" alt=""><figcaption><p>投稿前一夜必须狠狠的熬夜肝</p></figcaption></figure>
 
 最后希望看到这里的学弟学妹们都能找到自己喜欢的方向，抓紧时间搞科研，进组的时间越早越好，大一如果有能力和时间的话建议直接进，找个强的实验室 push 自己一年大概率是有很好的成果的，这对想要升学的同学非常重要。
 

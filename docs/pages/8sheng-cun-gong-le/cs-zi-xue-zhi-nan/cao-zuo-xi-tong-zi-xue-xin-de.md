@@ -2,9 +2,9 @@
 
 做一件事情人们往往想找点意义，那么为什么学操作系统？可以看看下面蒋老师在 ppt 的解答。
 
-<figure><img src="../../../assets/image ( 9 ) .png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../assets/image ( 9 ).png" alt="" width="563"><figcaption></figcaption></figure>
 
-<figure><img src="../../../assets/image ( 10 ) .png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../assets/image ( 10 ).png" alt="" width="563"><figcaption></figcaption></figure>
 
 当初应该是大三上学期，我接触到 CS 自学指南这个网站，决定拿一学期试一试，放弃学校的课程，看看完全拥抱自学是不是比按照学校课程按部就班学习更有收获。先说结果，这一学期学到的东西，在我后面许多面试、讲项目中给了我巨大的帮助。尤其是学习的操作系统，这里必须推荐我选择的这门课程，那就是南京大学蒋炎岩老师的 [操作系统课程](https://jyywiki.cn/index.html) ，这个链接是课程主页，他在 B 站会更新课程视频，名字叫 [绿老师原谅你了](https://space.bilibili.com/202224425?spm_id_from=333.337.0.0) 。现在他在上课的时候他会直接在 B 站直播，有兴趣可以去看看。
 
