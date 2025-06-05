@@ -8,7 +8,7 @@
 
 <figure><img src="../../assets/Pasted image 20250502162835.png" alt=""><figcaption><p>图 1：复试录取细则</p></figcaption></figure>
 
-<figure><img src="../../assets/粘贴的图像。png" alt=""><figcaption><p>图 2：精确搜索</p></figcaption></figure>
+<figure><img src="../../assets/粘贴的图像.png" alt=""><figcaption><p>图 2：精确搜索</p></figcaption></figure>
 
 \
 这样就可以得到历年的复试分数线，进入复试的每个人的初试成绩，还有复试科目、复试的分数占比等等信息。 **其中可以对比历年复试科目有没有变化，这点很重要，因为有时候复试科目会改变，所以一定要确定好复试科目。初试结束后也最好尽早准备复试，多去网上看看复试考察的内容，对于计算机，项目和机试往往很重要。**
