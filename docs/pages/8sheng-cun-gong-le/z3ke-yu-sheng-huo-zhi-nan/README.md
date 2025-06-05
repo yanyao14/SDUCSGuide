@@ -6,7 +6,7 @@
 
 ### 班级工作
 
-### 学生会（院，书院，校）
+### 学生会 ( 院，书院，校 )
 
 ## 社团活动
 
@@ -15,5 +15,5 @@
 ## 生活指南
 
 <!-- {% content-ref url="ye-xiao-zhi-bei.md" %}
-[ye-xiao-zhi-bei.md](ye-xiao-zhi-bei.md)
+ [ye-xiao-zhi-bei.md](ye-xiao-zhi-bei.md)
 {% endcontent-ref %} -->

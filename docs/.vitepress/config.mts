@@ -12,6 +12,7 @@ export default defineConfig({
     ["link", { rel: "icon", href: "/SDUCSGuide/favicon.png" }], // 这里写你的图标文件名
     // 你也可以用 '/favicon.ico' 或 '/SDUicon.png'，但路径一定要以 / 开头
     // ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Source+Han+Sans:wght@400;700&display=swap' }],
+    // TODO: 引入pangu 
   ],
   themeConfig: {
     logo: "/favicon.png",
