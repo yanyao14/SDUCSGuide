@@ -2,6 +2,7 @@ import { defineConfig } from "vitepress";
 import type { HeadConfig } from "vitepress";
 import { set_sidebar } from "./generateSidebar.js";
 
+
 // https://vitepress.dev/reference/site-config
 
 export default defineConfig({
@@ -10,6 +11,7 @@ export default defineConfig({
   head: [
     ["link", { rel: "icon", href: "/SDUCSGuide/favicon.png" }], // 这里写你的图标文件名
     // 你也可以用 '/favicon.ico' 或 '/SDUicon.png'，但路径一定要以 / 开头
+    // ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Source+Han+Sans:wght@400;700&display=swap' }],
   ],
   themeConfig: {
     logo: "/favicon.png",
@@ -35,7 +37,7 @@ export default defineConfig({
     css: {
       preprocessorOptions: {
         css: {
-          additionalData: `@import "./styles/override.css";`,
+          additionalData: `@import "./my-font.css";`,
         },
       },
     },

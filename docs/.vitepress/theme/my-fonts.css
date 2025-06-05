@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;700&display=swap');
+
+/* 覆盖默认字体 */
+:root {
+  --vp-font-family-base: 'Noto Sans SC', sans-serif; /* 基础字体 */
+  --vp-font-family-mono: 'Fira Code', monospace;     /* 代码块字体 */
+}
+  
