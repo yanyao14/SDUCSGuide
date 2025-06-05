@@ -20,6 +20,7 @@ export default defineConfig({
       { text: "首页", link: "/" },
       { text: "启程", link: "/pages/0qian-yan/README" },
       { text: "贡献指南", link: "/join" },
+      // { text: "技术手册", link: "/guideManual" },
       {
         text: "GitHub",
         link: "https://github.com/SDUCSGuide/SDUCSGuide.git",
