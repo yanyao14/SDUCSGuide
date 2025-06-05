@@ -132,10 +132,10 @@ features:
 - SDUOJ https://oj.qd.sdu.edu.cn/v2/home
 - 山东大学ACM实验室 https://space.bilibili.com/488809409
 - CS自学指南 https://csdiy.wiki/
-- 清华大学飞跃手册 https://feiyue.online/
+<!-- - 清华大学飞跃手册 https://feiyue.online/
 - 南方科技大学飞跃手册 https://sustech-application.com/
 - 上海交通大学生存手册 https://survivesjtu.gitbook.io/survivesjtumanual
 - 四川大学计软网学生自救手册 https://scu-cs-runner.github.io/SurviveSCUManual/
-- 上海交通大学飞跃手册 https://survivesjtu.github.io/SJTU-Application/#/
+- 上海交通大学飞跃手册 https://survivesjtu.github.io/SJTU-Application/#/ -->
 
 
